@@ -12,7 +12,7 @@
 | 11:20-11:35am | Break (Kris will have camera off) |
 | 11:35am-12:35pm | Introduction to researching lexical proficiency using learner corpora (lecture) |
 | 12:35-12:55pm | Q/A Session 2 |
-| 12:55-1:00 | Brief closing remarks |
+| 12:55-1:00pm | Brief closing remarks |
 
 
 ## Resources
