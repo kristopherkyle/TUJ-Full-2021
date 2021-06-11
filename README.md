@@ -18,7 +18,7 @@
 
 | Time | Topic/Activity | Readings/Resources |
 |-----------------|----------------|----------------|
-| 10:00-10:50am | Getting started with data analysis (visualization) | [Getting Started with R and Rstudio](https://kristopherkyle.github.io/IntroQuantALRM/1_Getting_started.html), [Visualization in R](https://kristopherkyle.github.io/IntroQuantALRM/2_getting_started_vis_data.html) |
+| 10:00-10:50am | Getting started with data analysis (visualization) - Please install R and Rstudio prior to class | [Install R and Rstudio (Tutorial)](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu); [Getting Started with R and Rstudio](https://kristopherkyle.github.io/IntroQuantALRM/1_Getting_started.html), [Visualization in R](https://kristopherkyle.github.io/IntroQuantALRM/2_getting_started_vis_data.html) |
 | 10:50-11:00| Break (Kris will have camera off) | |
 | 11:00-11:50am | Analyzing relationships between indices of lexical proficiency and human judgements (correlation and regression)|[Kyle et al., (2018)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2018%20Kyle%20Crossley%20Berger%20BRM.pdf), [Correlation in R](https://kristopherkyle.github.io/IntroQuantALRM/9_Correlations.html), [Regression in R](https://kristopherkyle.github.io/IntroQuantALRM/10_Simple_Regression.html)|
 | 11:50am-12:00pm | Break (Kris will have camera off) | |
