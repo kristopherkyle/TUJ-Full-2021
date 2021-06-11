@@ -1,5 +1,5 @@
 # Schedule and resources
-(2021-06-12, 2021-06-13, 2021-06-19, 2021-06-20)
+(Last updated 2021-6-11)
 
 ## Schedule
 
