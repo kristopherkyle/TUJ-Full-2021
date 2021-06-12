@@ -16,6 +16,8 @@
 
 **June 13th**
 
+In addition to the resources outlined below, we will refer to information (and data!) located on the [Day 2 Resource Page](Day2.md)
+
 | Time | Topic/Activity | Readings/Resources |
 |-----------------|----------------|----------------|
 | 10:00-10:50am | Getting started with data analysis (visualization) - Please install R and Rstudio prior to class | [Install R and Rstudio (Tutorial)](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu); [Getting Started with R and Rstudio](https://kristopherkyle.github.io/IntroQuantALRM/1_Getting_started.html), [Visualization in R](https://kristopherkyle.github.io/IntroQuantALRM/2_getting_started_vis_data.html) |
