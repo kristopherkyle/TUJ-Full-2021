@@ -18,7 +18,7 @@
 
 In addition to the resources outlined below, we will refer to information (and data!) located on the [Day 2 Resource Page](Day2.md)
 
-[Download the R file used in today's class here]()
+[Download the R file used in today's class here](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/Day2.R)
 
 | Time | Topic/Activity | Readings/Resources |
 |-----------------|----------------|----------------|
