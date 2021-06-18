@@ -1,0 +1,47 @@
+Content						
+10-12	EXCELLENT TO VERY GOOD: knowledgeable • substantive • thorough development of thesis • relevant to assigned topic					
+7-9	GOOD TO AVERAGE: some knowledge of the subject • adequate range • limited development of thesis • mostly relevant to topic, but lacks detail					
+4-6	FAIR TO POOR: limited knowledge of the subject • little substance • inadequate development of topic					
+1-3	VERY POOR: does not show knowledge of the subject • non-substantive • not pertinent • OR not enough to evaluate					
+						
+Organization						
+10-12	EXCELLENT TO VERY GOOD: fluent expression • ideas clearly stated/supported • succinct • well-organized • logical sequencing • cohesive					
+7-9	GOOD TO AVERAGE: somewhat choppy • loosely organized, but main ideas stand out • limited support • logical, but incomplete sequencing					
+4-6	FAIR TO POOR: non-fluent • ideas confused or disconnected • lacks logical sequencing and developing					
+1-3	VERY POOR: does not communicate • no organization • OR not enough to evaluate					
+						
+Vocabulary						
+10-12	EXCELLENT TO VERY GOOD: sophisticated range • effective word/idiom choice and usage • word form mastery • appropriate register					
+7-9	GOOD TO AVERAGE: adequate range • occasional errors of word/idiom form, choice, usage but meaning not obscured					
+4-6	FAIR TO POOR: limited range • frequent errors of word/idiom form, choice, usage • meaning confused or obscured					
+1-3	VERY POOR: essentially translation • little knowledge of English vocabulary, idioms, word form • OR not enough to evaluate					
+						
+Language Use						
+10-12	EXCELLENT TO VERY GOOD: effective complex constructions • few errors of agreement, tense, number, word order/function, articles, pronouns, prepositions					
+7-9	GOOD TO AVERAGE: effective but simple constructions • minor problems in complex constructions • several errors of agreement, tense, number, word order/function, articles, pronouns, prepositions but meaning seldom obscured					
+4-6	FAIR TO POOR: major problems in simple constructions • frequent errors of negation, agreement, tense, number, word order/function, articles, pronouns, prepositions and/or fragments, run-ons, deletions meaning confused or obscured					
+1-3	VERY POOR: virtually no mastery of sentence construction rules • dominated by errors • does not communicate • OR not enough to evaluate					
+						
+Mechanics						
+10-12	EXCELLENT TO VERY GOOD: demonstrates mastery of conventions • few errors of spelling, punctuation, capitalization, paragraphing					
+7-9	GOOD TO AVERAGE: occasional errors of spelling, punctuation, capitalization, paragraphing but meaning not obscured					
+4-6	FAIR TO POOR: frequent errors of spelling, punctuation, capitalization, paragraphing • poor handwriting • meaning confused or obscured					
+1-3	VERY POOR: no mastery of conventions • dominated by errors of spelling, punctuation, capitalization, paragraphing • handwriting illegible • OR not enough to evaluate					
+						
+How to Calculate the Total Score
+
+score_percent: (Con+Org+Voc+LanU+Mec)/60*100
+
+score_percent_weighted: (Con/12*30 + Org/12*20 + Voc/12*20 + LanU/12*25 + Mec/12*5)  [Corrected in April 2018]
+
+Note: score_percent_weighted reflects the weights proposed in Jacobs et al. 1981. 
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						

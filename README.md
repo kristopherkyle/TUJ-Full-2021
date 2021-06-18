@@ -30,13 +30,27 @@ In addition to the resources outlined below, we will refer to information (and d
 
 **June 19th**
 
+Download the resources for [Day 3 here](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/Day3.zip)
+
 | Time | Topic/Activity | Readings/Resources |
 |-----------------|----------------|----------------|
-| 10:00-10:50am |Using multiple regression in lexical proficiency studies | [Multiple Regression in R](https://kristopherkyle.github.io/IntroQuantALRM/11_Multiple_Regression.html)|
+| 10:00-10:50am | Introduction to learner corpus research | |
 | 10:50-11:00| Break (Kris will have camera off) |
-| 11:00-11:50am | Exploratory multivariate approaches to modeling lexical proficiency  | [Eguchi & Kyle, (2020)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2020%20Eguchi%20Kyle%20MLJ.pdf), [Kim et al., (2018)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2018%20Kim%20Crossley%20Kyle%20MLJ.pdf), [Kyle et al., (2018)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2018%20Kyle%20Crossley%20Berger%20BRM.pdf) |
+| 11:00-11:50am | Using multiple regression in lexical proficiency studies | [Kyle et al., (2018)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2018%20Kyle%20Crossley%20Berger%20BRM.pdf), [TAALES Index Description](https://drive.google.com/open?id=1BrM1EKsUJyVoYx4eWKMqjNSk0TyRqhON), [Multiple Regression in R](https://kristopherkyle.github.io/IntroQuantALRM/11_Multiple_Regression.html)|
 | 11:50am-12:00pm | Break (Kris will have camera off) |
-| 12:00-1:00pm | Focused multivariate approaches to modeling lexical proficiency | [Berger et al., (2019)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2019%20Berger%20Crossley%20Kyle%20AL.pdf), [Garner et al, (2020)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2020%20Garner%20Crossley%20Kyle%20IRAL.pdf), [Kyle et al. (2021)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2021%20Kyle%20Crossley%20Jarvis%20LAQ.pdf) |
+| 12:00-1:00pm | Using multiple regression in lexical proficiency studies (continued) |  |
+
+**Additional Resources:**
+
+**Exploratory Approaches:**
+- [Eguchi & Kyle, (2020)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2020%20Eguchi%20Kyle%20MLJ.pdf)
+- [Kim et al., (2018)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2018%20Kim%20Crossley%20Kyle%20MLJ.pdf)
+
+**More focused approaches:**
+- [Berger et al., (2019)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2019%20Berger%20Crossley%20Kyle%20AL.pdf)
+- [Garner et al, (2020)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2020%20Garner%20Crossley%20Kyle%20IRAL.pdf)
+- [Kyle et al. (2021)](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/2021%20Kyle%20Crossley%20Jarvis%20LAQ.pdf)
+
 
 **June 20th**
 
