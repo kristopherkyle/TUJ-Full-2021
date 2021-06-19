@@ -54,6 +54,10 @@ Download the resources for [Day 3 here](https://github.com/kristopherkyle/TUJ-Fu
 
 **June 20th**
 
+Download the resources for [Day 4 here](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/Day4.zip)
+
+See all [data visualizations here](https://github.com/kristopherkyle/TUJ-Full-2021/raw/main/docs/Day4.html)
+
 | Time | Topic/Activity | Readings/Resources |
 |-----------------|----------------|----------------|
 | 10:00-10:50am |Framing, reporting, and discussing multivariate analyses of productive lexical proficiency | |
