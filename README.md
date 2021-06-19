@@ -60,12 +60,12 @@ See all [data visualizations here](https://github.com/kristopherkyle/TUJ-Full-20
 
 | Time | Topic/Activity | Readings/Resources |
 |-----------------|----------------|----------------|
-| 10:00-10:50am |Framing, reporting, and discussing multivariate analyses of productive lexical proficiency | |
+| 10:00-10:50am |Conceptual issues in multivariate modeling of lexical proficiency| |
 | 10:50-11:00| Break (Kris will have camera off) |
-| 11:00-11:50am |Framing, reporting, and discussing multivariate analyses of productive lexical proficiency (continued) | |
+| 11:00-11:50am |Implementing multivariate models of lexical proficiency using multiple regression | |
 | 11:50am-12:00pm | Break (Kris will have camera off) |
-| 12:00-12:30pm | Future directions in the analysis of productive lexical proficiency | |
-| 12:30-1:00pm | Final Project Q/A| [Final Project Guidelines](https://github.com/kristopherkyle/TUJ-Public-2021/raw/main/docs/Distinguished%20Lecturer%20Series%20Project_Kyle_2021.doc) |
+| 12:00-1:00pm | Wrapping up, Future directions in the analysis of productive lexical proficiency | |
+
 
 ## Other Resources
 
